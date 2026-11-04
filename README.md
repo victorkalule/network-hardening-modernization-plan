@@ -53,10 +53,9 @@ For a detailed planning view, see [the proposed hardening roadmap](docs/proposed
 
 - [Proposed hardening roadmap](docs/proposed-hardening-roadmap.md)
 - [Conceptual network segmentation design](docs/conceptual-segmentation-design.md)
-- [Publication review checklist](PUBLICATION_CHECKLIST.md)
 
 ## Source and limitations
 
 Adapted from a network modernization proposal I wrote for a **TripleTen cybersecurity training exercise** in January 2026. The underlying source is a **proposal**; there are no verified deployment logs, firewall exports, packet captures, or measured production outcomes in the source document. Any example controls and verification criteria in the companion files are **design-level suggestions** for a future implementation, not claims of completed changes.
 
-Original course materials, confidential information, credentials, actual network diagrams, and internal configuration files are not included. This repository is kept **private pending a publication-rights review**.
+Original course materials, confidential information, credentials, actual network diagrams, and internal configuration files are not included.
